@@ -12,7 +12,7 @@ Dataset is from https://www.kaggle.com/datatattle/covid-19-nlp-text-classificati
 Visualization includes data analysis, wordclouds, word frequency, etc.
 
 
-Classification & Prediction	
+Classification & Prediction:
 
 Accuracy of 5-class Classification with BERT: 0.87	
 

@@ -38,7 +38,7 @@ Accuracy of deep learning models (5-class classification):
 
 | Model      | 3-class classification     | 5-class classification     |
 | ---------- | :-----------------------:  | :------------------------: |
-| BiGRU      | 57.93%                     | 76.07%                     |
+| BiGRU      | 58.27%                     | 75.57%                     |
 | BiLSTM     | **60.51%**                 | **77.83%**                 |
 | CNN        | 57.93%                     | 76.07%                     |
 | CNN+GRU    | 55.50%                     | 73.12%                     |

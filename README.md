@@ -28,17 +28,19 @@ Classification includes traditional deep learning models and feature-baased BERT
 ### Evaluation
 Evaluation includes loss(tensorboard), accuracy, confusion matrix
 
-Accuracy of 5-class Classification with BERT: 0.87
+Accuracy of 5-class Classification with BERT: 87%
 
-Accuracy of 3-class Classification with BERT: 0.92
+Accuracy of 3-class Classification with BERT: 91.68%
 
-Accuracy of 3-class Classification with based on the model of 5-class: 0.933
+Accuracy of 3-class Classification with based on the model of 5-class: 93.31%
 
-Accuracy of traditional deep learning models (5-class classification):
+Accuracy of deep learning models (5-class classification):
 
 | Model      | 3-class classification     | 5-class classification     |
 | ---------- | :-----------------------:  | :------------------------: |
 | BiGRU      | 57.93%                     | 76.07%                     |
-| BiLSTM     | 57.93%                     | 76.07%                     |
+| BiLSTM     | **60.51%**                 | **77.83%**                 |
 | CNN        | 57.93%                     | 76.07%                     |
-| CNN+GRU    | 57.93%                     | 76.07%                     |
+| CNN+GRU    | 55.50%                     | 73.12%                     |
+| CNN+LSTM   | 56.82%                     | 74.07%                     |
+| BERT       | **86.99%**                 | **93.31%**                 |

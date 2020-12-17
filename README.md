@@ -34,7 +34,7 @@ Accuracy of 3-class Classification with BERT: 91.68%
 
 Accuracy of 3-class Classification with based on the model of 5-class: 93.31%
 
-Accuracy of deep learning models (5-class classification):
+Accuracy of deep learning models (based on 5-class classification):
 
 | Model      | 3-class classification     | 5-class classification     |
 | ---------- | :-----------------------:  | :------------------------: |
